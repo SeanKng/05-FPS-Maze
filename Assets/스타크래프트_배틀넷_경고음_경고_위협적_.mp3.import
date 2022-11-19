@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/스타크래프트_배틀넷_경고음_경고_위협적_.mp3-8321d0da954dbaacc30c29ff6b0ead3b.mp3str"
+
+[deps]
+
+source_file="res://Assets/스타크래프트_배틀넷_경고음_경고_위협적_.mp3"
+dest_files=[ "res://.import/스타크래프트_배틀넷_경고음_경고_위협적_.mp3-8321d0da954dbaacc30c29ff6b0ead3b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

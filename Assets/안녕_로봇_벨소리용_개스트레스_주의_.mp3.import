@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/안녕_로봇_벨소리용_개스트레스_주의_.mp3-4194022495547b03aa7e91a37b1adb43.mp3str"
+
+[deps]
+
+source_file="res://Assets/안녕_로봇_벨소리용_개스트레스_주의_.mp3"
+dest_files=[ "res://.import/안녕_로봇_벨소리용_개스트레스_주의_.mp3-4194022495547b03aa7e91a37b1adb43.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
